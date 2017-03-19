@@ -14,11 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: HelloKatt
 
 # Short description of your site
-description: A virtual proof that name is awesome!
-
+description: 不忘初心，方得始终
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
